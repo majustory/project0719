@@ -1,7 +1,0 @@
-[ Git 사용법 ]
-git add . // 전체 파일을 사용.(추가)
-git status // git 상태확인.
-git commit -m "first commit" // git commit.
-git remote add origin https://github.com/park6764/project_0719.git // 원격 연동.
-git remote -v // 연결확인.
-git push origin master // 권한 인증 + push
